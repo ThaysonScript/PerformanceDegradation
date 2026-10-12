@@ -245,9 +245,7 @@ pip install -r requirements.txt
    * **Mann-Kendall Test**: Non-parametric trend significance ($p$-value, $z$-score).
    * **Euclidean Aging Index**:
      
-     $$
-     \text{Aging Index} = \sqrt{\sum_{i=1}^{n} (M_{i,\text{norm}})^2}
-     $$
+     **Aging Index**ⱼ = (1/M) ∑ᵢ₌₁ᴹ Sₙₒᵣₘ,ᵢ⁽ʲ⁾
 
    * Automated generation of publication-ready figures (**IEEE/SciencePlots** formatting in `.svg` and `.pdf`).
 
