@@ -1,0 +1,10 @@
+/env
+*.csv
+*__pycache__
+*.png
+*imagens*
+*logs*
+*.idea
+*venv
+*.venv
+*.zip
